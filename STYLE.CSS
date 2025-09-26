@@ -15,10 +15,29 @@ button{
 
 
 /* pratice */
-.content{
+/* .content{
     color: burlywood;
 }
 
 .newClass{
     background-color: rgb(181, 234, 127);
+} */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    color: turquoise;
+    border: 1px solid black;
+} */
+
+
+.dark{
+    background-color: green;
+    color: black;
+}
+
+.light{
+    background-color: yellow;
+    color: blue;
 }
